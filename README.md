@@ -76,7 +76,7 @@ src/
    ```bash
    npm run dev
    ```
-4. Open [http://localhost:5173](http://localhost:5173) in your browser
+4. Open [http://localhost:8080](http://localhost:8080) in your browser
 
 ## 📝 License
 
