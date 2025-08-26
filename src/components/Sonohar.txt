@@ -2,3 +2,4 @@ Sonohar (Productivity Tools)
 src/components/ProductivityZone.tsx
 src/components/PomodoroTimer.tsx
 src/components/HabitTracker.tsx
+src/components/AccountSettings.tsx
