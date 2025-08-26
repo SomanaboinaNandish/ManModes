@@ -1,4 +1,6 @@
 Abhinash (Fitness Features)
 src/components/FitnessZone.tsx
 src/components/WorkoutSchedule.tsx
+src/components/KnowledgeZone.tsx
+src/components/Navigation.tsx
 Fitness-Related Assets
